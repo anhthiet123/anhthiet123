@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @anhthiet123
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Nguyễn Anh Thiết</h2>
+    <h2>Đại học mỏ địa chất</h2>
+    <h2>Khoa Công nghệ thông tin</h2>
+    <h2>Khóa 64</h2>
+</body>
+</html>
 
-<!---
-anhthiet123/anhthiet123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
